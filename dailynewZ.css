@@ -1,0 +1,21 @@
+*
+{
+    background-color: rgb(255, 238, 241);
+}.heading
+{
+   
+    height:50px;
+    width:200vw;
+ background-color:rgb(194, 139, 183);
+ border:solid gray 3px;
+}
+#topic
+{
+
+    display:inline;
+    position:relative;
+    top:5px;
+    left:90vh;
+    background-color:rgb(194, 139, 183);
+  color:black;
+}

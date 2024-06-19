@@ -1,0 +1,59 @@
+*
+{
+    background-color: rgb(247, 230, 233);
+}
+.heading
+{
+   
+    height:50px;
+    width:200vw;
+ background-color:rgb(194, 139, 183);
+ border:solid gray 3px;
+}
+#topic
+{
+
+    display:inline;
+    position:relative;
+    top:5px;
+    left:90vh;
+    background-color:rgb(194, 139, 183);
+  color:black;
+}
+.navbar
+{
+    color:rgb(10, 10, 10);
+ 
+}
+.buttonss
+{ 
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.buttonss button{
+    position: relative;
+    top:1.5vh;
+   color:rgb(21, 1, 27);
+   background-color:rgb(141, 130, 132);
+ width:25vh;
+ font-weight: bold;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: larger;
+}
+.about h1{
+    color:rgb(60, 59, 59);
+    font-weight: bold;
+    font-size:50px ;
+    position: relative;
+    left:90px;
+}
+.write
+{
+    background-image: url("llo.jpeg");
+}
+.write h2{
+    display: flex;
+    justify-content: space-evenly;
+    color:rgb(180, 117, 240)
+}

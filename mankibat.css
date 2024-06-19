@@ -1,0 +1,68 @@
+*
+{
+    background-color: rgb(255, 238, 241);
+}.heading
+{
+   
+    height:50px;
+    width:200vw;
+ background-color:rgb(194, 139, 183);
+ border:solid gray 3px;
+}
+#topic
+{
+
+    display:inline;
+    position:relative;
+    top:5px;
+    left:90vh;
+    background-color:rgb(194, 139, 183);
+  color:black;
+}
+.baat
+{
+  border:10px;
+
+}
+.q1
+{
+ 
+  background-color: rgb(120, 92, 92);
+  width:40vw;
+  height:20vw;
+  
+}
+.q1 h2{
+  background-color: rgb(120, 92, 92);
+  color:rgb(22, 0, 0)
+}
+.baate
+{
+  border:10px;
+  position:relative;
+top:-232.8vh;
+left:50vw;
+}
+.q2
+{
+ 
+  background-color: rgb(113, 84, 112);
+  width:40vw;
+  height:20vw;
+
+}
+.q2 h2{
+  background-color: rgb(113,84,112);
+  color:rgb(39, 0, 0)
+}
+.finish
+{
+  display:inline;
+  background-color: black;
+  color:white;
+  position:relative;
+  top:10vh;
+  left:-40vw;
+  height:5vh;
+
+}

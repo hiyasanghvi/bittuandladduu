@@ -1,0 +1,13 @@
+.urgent
+{
+    height:15vh;
+    font-size: 9vh;
+}
+.ok
+{
+    height:30vh;
+    width:70vh;
+    
+    background-color: rgb(241, 236, 95);
+    
+}
